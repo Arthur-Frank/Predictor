@@ -1,9 +1,8 @@
 # Приложение, использующие дамп обученной модели из проекта обучения и выбора моделей
 # https://github.com/Arthur-Frank/ebw_prediction_model
-# интерфейс приложения реализован с библиотекой nicegui
-# https://github.com/zauberzeug/nicegui
+# интерфейс приложения реализован с библиотекой tkinter
 
-# Библиотеки для чтения моели из дампа пикл
+# Библиотеки для чтения модели из дампа пикл
 import pickle
 import sklearn
 import numpy as np
